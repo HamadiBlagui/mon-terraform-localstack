@@ -1,0 +1,1 @@
+Bravo Hamadi ! Tu as surmonté les erreurs d'installation et Terraform fonctionne enfin !
